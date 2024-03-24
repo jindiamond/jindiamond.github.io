@@ -2,105 +2,79 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://jindiamond.github.io/test01/about/</loc>
+    <loc>https://jindiamond.github.io/categories/</loc>
+    <lastmod>2024-03-24T13:07:47+08:00</lastmod>
+  </url><url>
+    <loc>https://jindiamond.github.io/</loc>
+    <lastmod>2024-03-24T13:07:47+08:00</lastmod>
+  </url><url>
+    <loc>https://jindiamond.github.io/tags/</loc>
+    <lastmod>2024-03-24T13:07:47+08:00</lastmod>
+  </url><url>
+    <loc>https://jindiamond.github.io/tags/ttt1/</loc>
+    <lastmod>2024-03-24T13:07:47+08:00</lastmod>
+  </url><url>
+    <loc>https://jindiamond.github.io/categories/%E5%BF%83%E5%BE%97/</loc>
+    <lastmod>2024-03-24T13:07:47+08:00</lastmod>
+  </url><url>
+    <loc>https://jindiamond.github.io/blog/test/</loc>
+    <lastmod>2024-03-24T13:07:47+08:00</lastmod>
+  </url><url>
+    <loc>https://jindiamond.github.io/about/</loc>
     <lastmod>2019-10-29T13:49:23+06:00</lastmod>
   </url><url>
-    <loc>https://jindiamond.github.io/test01/blog/</loc>
+    <loc>https://jindiamond.github.io/blog/</loc>
     <lastmod>2019-10-29T13:49:23+06:00</lastmod>
   </url><url>
-    <loc>https://jindiamond.github.io/test01/contact/</loc>
+    <loc>https://jindiamond.github.io/contact/</loc>
     <lastmod>2019-10-29T13:49:23+06:00</lastmod>
   </url><url>
-    <loc>https://jindiamond.github.io/test01/</loc>
+    <loc>https://jindiamond.github.io/search/</loc>
     <lastmod>2019-10-29T13:49:23+06:00</lastmod>
   </url><url>
-    <loc>https://jindiamond.github.io/test01/search/</loc>
-    <lastmod>2019-10-29T13:49:23+06:00</lastmod>
-  </url><url>
-    <loc>https://jindiamond.github.io/test01/categories/android-and-gaming/</loc>
+    <loc>https://jindiamond.github.io/categories/android-and-gaming/</loc>
     <lastmod>2019-10-29T10:07:47+06:00</lastmod>
   </url><url>
-    <loc>https://jindiamond.github.io/test01/categories/</loc>
+    <loc>https://jindiamond.github.io/tags/game/</loc>
     <lastmod>2019-10-29T10:07:47+06:00</lastmod>
   </url><url>
-    <loc>https://jindiamond.github.io/test01/tags/game/</loc>
+    <loc>https://jindiamond.github.io/categories/go-language/</loc>
     <lastmod>2019-10-29T10:07:47+06:00</lastmod>
   </url><url>
-    <loc>https://jindiamond.github.io/test01/categories/go-language/</loc>
+    <loc>https://jindiamond.github.io/blog/post-1/</loc>
     <lastmod>2019-10-29T10:07:47+06:00</lastmod>
   </url><url>
-    <loc>https://jindiamond.github.io/test01/blog/post-1/</loc>
+    <loc>https://jindiamond.github.io/blog/post-13/</loc>
     <lastmod>2019-10-29T10:07:47+06:00</lastmod>
   </url><url>
-    <loc>https://jindiamond.github.io/test01/blog/post-10/</loc>
+    <loc>https://jindiamond.github.io/blog/post-2/</loc>
     <lastmod>2019-10-29T10:07:47+06:00</lastmod>
   </url><url>
-    <loc>https://jindiamond.github.io/test01/blog/post-11/</loc>
+    <loc>https://jindiamond.github.io/blog/post-3/</loc>
     <lastmod>2019-10-29T10:07:47+06:00</lastmod>
   </url><url>
-    <loc>https://jindiamond.github.io/test01/blog/post-12/</loc>
+    <loc>https://jindiamond.github.io/blog/post-4/</loc>
     <lastmod>2019-10-29T10:07:47+06:00</lastmod>
   </url><url>
-    <loc>https://jindiamond.github.io/test01/blog/post-13/</loc>
+    <loc>https://jindiamond.github.io/tags/html/</loc>
     <lastmod>2019-10-29T10:07:47+06:00</lastmod>
   </url><url>
-    <loc>https://jindiamond.github.io/test01/blog/post-2/</loc>
+    <loc>https://jindiamond.github.io/categories/html-css/</loc>
     <lastmod>2019-10-29T10:07:47+06:00</lastmod>
   </url><url>
-    <loc>https://jindiamond.github.io/test01/blog/post-3/</loc>
+    <loc>https://jindiamond.github.io/tags/new/</loc>
     <lastmod>2019-10-29T10:07:47+06:00</lastmod>
   </url><url>
-    <loc>https://jindiamond.github.io/test01/blog/post-4/</loc>
+    <loc>https://jindiamond.github.io/tags/photos/</loc>
     <lastmod>2019-10-29T10:07:47+06:00</lastmod>
   </url><url>
-    <loc>https://jindiamond.github.io/test01/blog/post-5/</loc>
+    <loc>https://jindiamond.github.io/tags/python/</loc>
     <lastmod>2019-10-29T10:07:47+06:00</lastmod>
   </url><url>
-    <loc>https://jindiamond.github.io/test01/blog/post-6/</loc>
+    <loc>https://jindiamond.github.io/tags/react/</loc>
     <lastmod>2019-10-29T10:07:47+06:00</lastmod>
   </url><url>
-    <loc>https://jindiamond.github.io/test01/blog/post-7/</loc>
+    <loc>https://jindiamond.github.io/categories/web-design/</loc>
     <lastmod>2019-10-29T10:07:47+06:00</lastmod>
-  </url><url>
-    <loc>https://jindiamond.github.io/test01/blog/post-8/</loc>
-    <lastmod>2019-10-29T10:07:47+06:00</lastmod>
-  </url><url>
-    <loc>https://jindiamond.github.io/test01/blog/post-9/</loc>
-    <lastmod>2019-10-29T10:07:47+06:00</lastmod>
-  </url><url>
-    <loc>https://jindiamond.github.io/test01/tags/html/</loc>
-    <lastmod>2019-10-29T10:07:47+06:00</lastmod>
-  </url><url>
-    <loc>https://jindiamond.github.io/test01/categories/html/</loc>
-    <lastmod>2019-10-29T10:07:47+06:00</lastmod>
-  </url><url>
-    <loc>https://jindiamond.github.io/test01/categories/html--css/</loc>
-    <lastmod>2019-10-29T10:07:47+06:00</lastmod>
-  </url><url>
-    <loc>https://jindiamond.github.io/test01/tags/new/</loc>
-    <lastmod>2019-10-29T10:07:47+06:00</lastmod>
-  </url><url>
-    <loc>https://jindiamond.github.io/test01/tags/photos/</loc>
-    <lastmod>2019-10-29T10:07:47+06:00</lastmod>
-  </url><url>
-    <loc>https://jindiamond.github.io/test01/categories/programming-language/</loc>
-    <lastmod>2019-10-29T10:07:47+06:00</lastmod>
-  </url><url>
-    <loc>https://jindiamond.github.io/test01/tags/python/</loc>
-    <lastmod>2019-10-29T10:07:47+06:00</lastmod>
-  </url><url>
-    <loc>https://jindiamond.github.io/test01/categories/python/</loc>
-    <lastmod>2019-10-29T10:07:47+06:00</lastmod>
-  </url><url>
-    <loc>https://jindiamond.github.io/test01/tags/react/</loc>
-    <lastmod>2019-10-29T10:07:47+06:00</lastmod>
-  </url><url>
-    <loc>https://jindiamond.github.io/test01/tags/</loc>
-    <lastmod>2019-10-29T10:07:47+06:00</lastmod>
-  </url><url>
-    <loc>https://jindiamond.github.io/test01/categories/web-design/</loc>
-    <lastmod>2019-10-29T10:07:47+06:00</lastmod>
-  </url><url>
-    <loc>https://jindiamond.github.io/test01/blog/test/</loc>
   </url>
 </urlset>
