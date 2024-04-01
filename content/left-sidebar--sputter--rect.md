@@ -1,18 +1,16 @@
 ---
-title: "Two Sidebar"
-description: "Yup. Two sidebars at the same time."
-menu: main2
-weight: 140
+title: "磁控濺鍍源--矩型"
+description: "Sidebar on the left, content on the right."
+menu: main1
+weight: 1000
 image: images/banner.jpg
 image_alt: "Hello!"
 tags: ["examples", "content", "sidebar"]
-sidebar_left: sidebar1
-sidebar_right: sidebar2
+sidebar_left: sidebar3
+draft: false
 ---
-Phasellus quam turpis, feugiat sit amet ornare in, hendrerit in lectus.
-Praesent semper mod quis eget mi. Etiam eu ante risus. Aliquam erat volutpat.
-Aliquam luctus et mattis lectus sit amet pulvinar. Nam turpis nisi
-consequat etiam lorem ipsum dolor sit amet nullam.
+產品介紹:
+    ![矩型磁控濺鍍源]()
 
 ### And Yet Another Subheading
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas ac quam risus, at tempus

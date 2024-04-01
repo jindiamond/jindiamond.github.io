@@ -1,13 +1,14 @@
 ---
-title: "Two Sidebar"
-description: "Yup. Two sidebars at the same time."
-menu: main2
-weight: 140
+title: "大氣等離子--DBD Type"
+description: "介紹大氣等離子--DBD Type規格"
+menu: main3
+weight: 20
 image: images/banner.jpg
 image_alt: "Hello!"
 tags: ["examples", "content", "sidebar"]
-sidebar_left: sidebar1
-sidebar_right: sidebar2
+sidebar_left: sidebar3
+draft: false
+date: "2024-03-31T11:00:00"
 ---
 Phasellus quam turpis, feugiat sit amet ornare in, hendrerit in lectus.
 Praesent semper mod quis eget mi. Etiam eu ante risus. Aliquam erat volutpat.

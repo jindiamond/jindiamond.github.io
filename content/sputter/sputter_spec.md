@@ -1,13 +1,14 @@
 ---
-title: "Two Sidebar"
-description: "Yup. Two sidebars at the same time."
+title: "Sputter--反應式濺射磁控源"
+description: "介紹反應式濺射磁控源規格"
 menu: main2
-weight: 140
+weight: 30
 image: images/banner.jpg
 image_alt: "Hello!"
 tags: ["examples", "content", "sidebar"]
-sidebar_left: sidebar1
-sidebar_right: sidebar2
+sidebar_left: sidebar3
+draft: false
+date: "2024-03-30T00:20:00"
 ---
 Phasellus quam turpis, feugiat sit amet ornare in, hendrerit in lectus.
 Praesent semper mod quis eget mi. Etiam eu ante risus. Aliquam erat volutpat.

@@ -1,8 +1,8 @@
 ---
 title: "Right Sidebar"
 description: "Sidebar on the right, content on the left."
-menu: main
-weight: 60
+menu: main2
+weight: 120
 image: images/banner.jpg
 image_alt: "Hello!"
 tags: ["examples", "content", "sidebar"]

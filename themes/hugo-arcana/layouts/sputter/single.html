@@ -1,9 +1,11 @@
 {{ define "main" }}
-    <header>
+    <header>       
+
+        <h1> Sputter folder in single.html</h1>
         <h2>{{ .Title }}</h2>
         <p>{{ .Description }}</p>
 
-        <h2> This generator by layouts/single.html</h2>
+        <h2> This generator by Sputter folder in single.html</h2>
         {{ if .Site.Params.show_post_dates | default true }}
             {{- with .Date }}<time>{{ . | time.Format ":date_medium" }}</time>{{ end }}
         {{ end }}

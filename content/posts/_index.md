@@ -1,5 +1,6 @@
 ---
 title: Posts
 menu: main
-weight: 20
+weight: 500
 ---
+

@@ -1,8 +1,8 @@
 ---
 title: "No Sidebar"
 description: "All content, all the time."
-menu: main
-weight: 80
+menu: main2
+weight: 160
 image: images/banner.jpg
 image_alt: "Hello!"
 tags: ["examples", "content"]

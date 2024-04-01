@@ -1,8 +1,8 @@
 ---
 title: "Left Sidebar精鑽"
 description: "Sidebar on the left, content on the right."
-menu: main
-weight: 50
+menu: main2
+weight: 100
 image: images/banner.jpg
 image_alt: "Hello!"
 tags: ["examples", "content", "sidebar"]

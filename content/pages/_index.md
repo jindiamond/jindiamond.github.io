@@ -1,5 +1,5 @@
 ---
 title: Pages
 menu: main
-weight: 24
+weight: 600
 ---

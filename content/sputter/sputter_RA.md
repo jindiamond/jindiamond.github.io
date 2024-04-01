@@ -1,13 +1,14 @@
 ---
-title: "Two Sidebar"
-description: "Yup. Two sidebars at the same time."
+title: "Sputter--旋轉圓柱磁控源"
+description: "旋轉圓柱磁控源Sidebar on the left, content on the right."
 menu: main2
-weight: 140
+weight: 40
 image: images/banner.jpg
 image_alt: "Hello!"
 tags: ["examples", "content", "sidebar"]
-sidebar_left: sidebar1
-sidebar_right: sidebar2
+sidebar_left: sidebar3
+draft: false
+date: "2024-03-31T11:00:00"
 ---
 Phasellus quam turpis, feugiat sit amet ornare in, hendrerit in lectus.
 Praesent semper mod quis eget mi. Etiam eu ante risus. Aliquam erat volutpat.

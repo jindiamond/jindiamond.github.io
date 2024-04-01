@@ -1,6 +1,6 @@
-baseURL = "https://example.org/"
+baseURL = "https://jindiamond.github.io"
 languageCode = "en-us"
-title = "Arcana for Hugo============"
+title = "精鑽股份有限公司 _default/config.toml"
 theme = "hugo-arcana"
 copyright = "© Untitled. All rights reserved"
 

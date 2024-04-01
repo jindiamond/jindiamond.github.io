@@ -1,49 +1,90 @@
 [[main]]
-    name = "Dropdown"
-    weight = 30
+    name = "產品"
+    weight = 3000
+    url = "/right-sidebar"
 [[main]]
-    parent = "Dropdown"
-    name = "Lorem dolor --Sputter Cathode"
-    weight = 31
+    parent = "產品"
+    name = "磁控濺射源 >>"
+    weight = 40
+    url = "/sputter"
+
+[[main]]
+    parent = "磁控濺射源 >>"
+    name = "矩型靶源"
+    weight = 41
+    url = "../left-sidebar--sputter--rect"
+[[main]]
+    parent = "磁控濺射源 >>"
+    name = "圓型靶源"
+    weight = 42
     url = "../left-sidebar"
 [[main]]
-    parent = "Dropdown"
-    name = "Magna Phasellus"
-    weight = 32
+    parent = "磁控濺射源 >>"
+    name = "旋轉圓柱靶源"
+    weight = 43
+    url = "../left-sidebar"
+
+
 [[main]]
-    parent = "Dropdown"
-    name = "Etiam sed tempus"
-    weight = 33
+    parent = "產品"
+    name = "離子源  >>"
+    weight = 50
+    url = "/IOB"
 [[main]]
-    parent = "Dropdown"
-    name = "Submenu"
-    weight = 34
+    parent = "離子源  >>"
+    name = "矩型離子源"
+    weight = 51
+    url = "../left-sidebar"
 [[main]]
-    parent = "Submenu"
-    name = "Lorem dolor"
+    parent = "離子源  >>"
+    name = "圓型離子源"
+    weight = 52
+    url = "../left-sidebar"
+[[main]]
+    parent = "離子源  >>"
+    name = "RF式離子源"
+    weight = 53
+    url = "../left-sidebar"
+[[main]]
+    parent = "離子源  >>"
+    name = "Filment式離子源"
+    weight = 53
+    url = "../left-sidebar"
+
+
+
+
+
+[[main]]
+    parent = "產品"
+    name = "高溫爐"
+    weight = 60
+[[main]]
+    parent = "產品"
+    name = "大氣電漿"
+    weight = 70
+[[main]]
+    parent = "大氣電漿"
+    name = "Jet Type"
     identifier = "sub-lorem"
     weight = 35
 [[main]]
-    parent = "Submenu"
-    name = "Phasellus magna"
+    parent = "大氣電漿"
+    name = "DBD"
     weight = 36
 [[main]]
-    parent = "Submenu"
+    parent = "大氣電漿"
     name = "Magna phasellus"
     weight = 37
 [[main]]
-    parent = "Submenu"
+    parent = "大氣電漿"
     name = "Etiam nisl"
     weight = 38
 [[main]]
-    parent = "Submenu"
+    parent = "大氣電漿"
     name = "Veroeros feugiat"
     identifier = "sub-veroeros"
     weight = 39
-[[main]]
-    parent = "Dropdown"
-    name = "Veroeros feugiat"
-    weight = 40
 
 [[main]]
     name = "About"

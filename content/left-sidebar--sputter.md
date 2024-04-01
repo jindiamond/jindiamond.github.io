@@ -1,18 +1,29 @@
 ---
-title: "Two Sidebar"
-description: "Yup. Two sidebars at the same time."
-menu: main2
-weight: 140
+title: "磁控濺鍍源"
+description: "Sidebar on the left, content on the right."
+menu: main1
+weight: 1000
 image: images/banner.jpg
 image_alt: "Hello!"
 tags: ["examples", "content", "sidebar"]
-sidebar_left: sidebar1
-sidebar_right: sidebar2
+sidebar_left: sidebar3
+draft: false
 ---
-Phasellus quam turpis, feugiat sit amet ornare in, hendrerit in lectus.
-Praesent semper mod quis eget mi. Etiam eu ante risus. Aliquam erat volutpat.
-Aliquam luctus et mattis lectus sit amet pulvinar. Nam turpis nisi
-consequat etiam lorem ipsum dolor sit amet nullam.
+
+<a href="../left-sidebar--sputter--rect">矩型磁控濺鍍源</a>
+
+產品介紹:
+
+[ # 矩型磁控濺鍍源](../left-sidebar--sputter--rect)
+<span style="font-size: 60px;" href="../left-sidebar--sputter--rect"> 矩型磁控濺鍍源 () </span>
+
+<span><a href="https://www.example.com" style="font-size: 18px;">這是一個放大的超連結 </a></span>
+
+![](/images/esmeralda.jpg)
+
+[圓型磁控濺鍍源](../left-sidebar--sputter--rect)
+
+[旋轉圓柱磁控濺鍍源](../left-sidebar--sputter--rect)
 
 ### And Yet Another Subheading
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas ac quam risus, at tempus
