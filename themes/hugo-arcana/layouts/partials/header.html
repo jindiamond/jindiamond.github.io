@@ -4,7 +4,7 @@
     {{- end -}}
     <a style="font-size: 68px;" href="{{ .Site.BaseURL }}" id="logo">
         {{- if .Site.Data.globalheader.image }}
-            <img src="{{ .Site.Data.globalheader.image | relURL }}" alt="{{ .Site.Data.globalheader.image_alt }}" />
+            <span ><img src="{{ .Site.Data.globalheader.image | relURL }}" width="5%" alt="{{ .Site.Data.globalheader.image_alt }}" /></span>
         {{- end }}        
         {{ with .Site.Data.globalheader.title }}{{ . | markdownify }}{{ else }}{{ .Site.Title }}{{ end }}
     </a>
