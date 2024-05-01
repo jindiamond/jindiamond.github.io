@@ -25,11 +25,11 @@ items:
       content: >
         (矩型/圓型/IBSS/IBCVD)
     - title: 大氣等離子
-      icon: fa-pencil-alt
+      icon: fa-spray-can #fa-pencil-alt
       content: >
         (Jet Type/ DVD type)
     - title: 微波源
-      icon: fa-business-time #fa-wave-square #fa-wrench
+      icon: fa-wifi #fa-wave-square #fa-wrench
       content: >
         ##
     - title: 高溫爐
