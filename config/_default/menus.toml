@@ -94,6 +94,7 @@
     parent = "About"
     name = "Data01"
     weight = 91
+    url = "/left-sidebar"
 [[main]]
     parent = "About"
     name = "Data02"

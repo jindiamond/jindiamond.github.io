@@ -2,10 +2,10 @@
     {{ if .Site.IsMultiLingual }}
         {{- partial "languages.html" . }}
     {{- end -}}
-    <a style="font-size: 88px;" href="{{ .Site.BaseURL }}" id="logo">
+    <a style="font-size: 68px;" href="{{ .Site.BaseURL }}" id="logo">
         {{- if .Site.Data.globalheader.image }}
             <img src="{{ .Site.Data.globalheader.image | relURL }}" alt="{{ .Site.Data.globalheader.image_alt }}" />
-        {{- end }}
+        {{- end }}        
         {{ with .Site.Data.globalheader.title }}{{ . | markdownify }}{{ else }}{{ .Site.Title }}{{ end }}
     </a>
 
@@ -13,7 +13,7 @@
         <ul>
             {{- range .Site.Menus.main }}
                 <li class="{{ if or ($.Page.IsMenuCurrent "main" .) ($.Page.HasMenuCurrent "main" .) }}current{{ end }}">
-                    <h1><a href="{{ .URL | default "#" }}">{{ .Name }}</a></h1>
+                    <a style="font-size: 18px;" href="{{ .URL | default "#" }}">{{ .Name }}</a>
                     {{- if .HasChildren -}}
                     <ul>
                         {{- range .Children }}

@@ -1,54 +1,54 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Arcana for Hugo</title>
-    <link>https://example.org/es/tags/</link>
-    <description>Recent content in Tags on Arcana for Hugo</description>
+    <title>Tags on 精鑽股份有限公司 _default/config.toml</title>
+    <link>https://jindiamond.github.io/es/tags/</link>
+    <description>Recent content in Tags on 精鑽股份有限公司 _default/config.toml</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     <copyright>© Untitled. All rights reserved</copyright>
     <lastBuildDate>Mon, 06 Jan 2020 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://example.org/es/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://jindiamond.github.io/es/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>duis neque</title>
-      <link>https://example.org/es/tags/duis-neque/</link>
+      <link>https://jindiamond.github.io/es/tags/duis-neque/</link>
       <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.org/es/tags/duis-neque/</guid>
+      <guid>https://jindiamond.github.io/es/tags/duis-neque/</guid>
       <description></description>
     </item>
     <item>
       <title>ejemplo</title>
-      <link>https://example.org/es/tags/ejemplo/</link>
+      <link>https://jindiamond.github.io/es/tags/ejemplo/</link>
       <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.org/es/tags/ejemplo/</guid>
+      <guid>https://jindiamond.github.io/es/tags/ejemplo/</guid>
       <description></description>
     </item>
     <item>
       <title>lorem ipsum</title>
-      <link>https://example.org/es/tags/lorem-ipsum/</link>
+      <link>https://jindiamond.github.io/es/tags/lorem-ipsum/</link>
       <pubDate>Sun, 05 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.org/es/tags/lorem-ipsum/</guid>
+      <guid>https://jindiamond.github.io/es/tags/lorem-ipsum/</guid>
       <description></description>
     </item>
     <item>
       <title>barra</title>
-      <link>https://example.org/es/tags/barra/</link>
+      <link>https://jindiamond.github.io/es/tags/barra/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/es/tags/barra/</guid>
+      <guid>https://jindiamond.github.io/es/tags/barra/</guid>
       <description></description>
     </item>
     <item>
       <title>contenido</title>
-      <link>https://example.org/es/tags/contenido/</link>
+      <link>https://jindiamond.github.io/es/tags/contenido/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/es/tags/contenido/</guid>
+      <guid>https://jindiamond.github.io/es/tags/contenido/</guid>
       <description></description>
     </item>
     <item>
       <title>ejemplos</title>
-      <link>https://example.org/es/tags/ejemplos/</link>
+      <link>https://jindiamond.github.io/es/tags/ejemplos/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/es/tags/ejemplos/</guid>
+      <guid>https://jindiamond.github.io/es/tags/ejemplos/</guid>
       <description></description>
     </item>
   </channel>

@@ -1,36 +1,151 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>sidebar on Arcana for Hugo</title>
-    <link>https://example.org/tags/sidebar/</link>
-    <description>Recent content in sidebar on Arcana for Hugo</description>
+    <title>sidebar on 精鑽股份有限公司 _default/config.toml</title>
+    <link>https://jindiamond.github.io/tags/sidebar/</link>
+    <description>Recent content in sidebar on 精鑽股份有限公司 _default/config.toml</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© Untitled. All rights reserved</copyright>
-    <atom:link href="https://example.org/tags/sidebar/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 31 Mar 2024 11:00:00 +0000</lastBuildDate>
+    <atom:link href="https://jindiamond.github.io/tags/sidebar/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Left Sidebar</title>
-      <link>https://example.org/left-sidebar/</link>
+      <title>Anode Layer Ion Sorce--矩型離子源</title>
+      <link>https://jindiamond.github.io/iob/iob_rect/</link>
+      <pubDate>Sat, 30 Mar 2024 00:20:00 +0000</pubDate>
+      <guid>https://jindiamond.github.io/iob/iob_rect/</guid>
+      <description>Phasellus quam turpis, feugiat sit amet ornare in, hendrerit in lectus. Praesent semper mod quis eget mi. Etiam eu ante risus. Aliquam erat volutpat. Aliquam luctus et mattis lectus sit amet pulvinar. Nam turpis nisi consequat etiam lorem ipsum dolor sit amet nullam.
+And Yet Another Subheading Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas ac quam risus, at tempus justo. Sed dictum rutrum massa eu volutpat. Quisque vitae hendrerit sem.</description>
+    </item>
+    <item>
+      <title>Sputter--矩型磁控源</title>
+      <link>https://jindiamond.github.io/sputter/sputter_rect/</link>
+      <pubDate>Sat, 30 Mar 2024 00:20:00 +0000</pubDate>
+      <guid>https://jindiamond.github.io/sputter/sputter_rect/</guid>
+      <description>Phasellus quam turpis, feugiat sit amet ornare in, hendrerit in lectus. Praesent semper mod quis eget mi. Etiam eu ante risus. Aliquam erat volutpat. Aliquam luctus et mattis lectus sit amet pulvinar. Nam turpis nisi consequat etiam lorem ipsum dolor sit amet nullam.
+And Yet Another Subheading Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas ac quam risus, at tempus justo. Sed dictum rutrum massa eu volutpat. Quisque vitae hendrerit sem.</description>
+    </item>
+    <item>
+      <title>大氣等離子--Jet Type</title>
+      <link>https://jindiamond.github.io/atm_plasma/atmplasma_jet/</link>
+      <pubDate>Sat, 30 Mar 2024 00:20:00 +0000</pubDate>
+      <guid>https://jindiamond.github.io/atm_plasma/atmplasma_jet/</guid>
+      <description>Phasellus quam turpis, feugiat sit amet ornare in, hendrerit in lectus. Praesent semper mod quis eget mi. Etiam eu ante risus. Aliquam erat volutpat. Aliquam luctus et mattis lectus sit amet pulvinar. Nam turpis nisi consequat etiam lorem ipsum dolor sit amet nullam.
+And Yet Another Subheading Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas ac quam risus, at tempus justo. Sed dictum rutrum massa eu volutpat. Quisque vitae hendrerit sem.</description>
+    </item>
+    <item>
+      <title>Anode Layer Ion Sorce--圓型離子源</title>
+      <link>https://jindiamond.github.io/iob/iob_circle/</link>
+      <pubDate>Sun, 31 Mar 2024 11:00:00 +0000</pubDate>
+      <guid>https://jindiamond.github.io/iob/iob_circle/</guid>
+      <description>Phasellus quam turpis, feugiat sit amet ornare in, hendrerit in lectus. Praesent semper mod quis eget mi. Etiam eu ante risus. Aliquam erat volutpat. Aliquam luctus et mattis lectus sit amet pulvinar. Nam turpis nisi consequat etiam lorem ipsum dolor sit amet nullam.
+And Yet Another Subheading Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas ac quam risus, at tempus justo. Sed dictum rutrum massa eu volutpat. Quisque vitae hendrerit sem.</description>
+    </item>
+    <item>
+      <title>Sputter--圓型磁控源</title>
+      <link>https://jindiamond.github.io/sputter/sputter_circle/</link>
+      <pubDate>Sun, 31 Mar 2024 11:00:00 +0000</pubDate>
+      <guid>https://jindiamond.github.io/sputter/sputter_circle/</guid>
+      <description>Phasellus quam turpis, feugiat sit amet ornare in, hendrerit in lectus. Praesent semper mod quis eget mi. Etiam eu ante risus. Aliquam erat volutpat. Aliquam luctus et mattis lectus sit amet pulvinar. Nam turpis nisi consequat etiam lorem ipsum dolor sit amet nullam.
+And Yet Another Subheading Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas ac quam risus, at tempus justo. Sed dictum rutrum massa eu volutpat. Quisque vitae hendrerit sem.</description>
+    </item>
+    <item>
+      <title>大氣等離子--DBD Type</title>
+      <link>https://jindiamond.github.io/atm_plasma/atmplasma_dvd/</link>
+      <pubDate>Sun, 31 Mar 2024 11:00:00 +0000</pubDate>
+      <guid>https://jindiamond.github.io/atm_plasma/atmplasma_dvd/</guid>
+      <description>Phasellus quam turpis, feugiat sit amet ornare in, hendrerit in lectus. Praesent semper mod quis eget mi. Etiam eu ante risus. Aliquam erat volutpat. Aliquam luctus et mattis lectus sit amet pulvinar. Nam turpis nisi consequat etiam lorem ipsum dolor sit amet nullam.
+And Yet Another Subheading Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas ac quam risus, at tempus justo. Sed dictum rutrum massa eu volutpat. Quisque vitae hendrerit sem.</description>
+    </item>
+    <item>
+      <title>ATM Plasma I</title>
+      <link>https://jindiamond.github.io/atm_plasma/atmplasma_ii.md/</link>
+      <pubDate>Sat, 30 Mar 2024 00:20:00 +0000</pubDate>
+      <guid>https://jindiamond.github.io/atm_plasma/atmplasma_ii.md/</guid>
+      <description>Phasellus quam turpis, feugiat sit amet ornare in, hendrerit in lectus. Praesent semper mod quis eget mi. Etiam eu ante risus. Aliquam erat volutpat. Aliquam luctus et mattis lectus sit amet pulvinar. Nam turpis nisi consequat etiam lorem ipsum dolor sit amet nullam.
+And Yet Another Subheading Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas ac quam risus, at tempus justo. Sed dictum rutrum massa eu volutpat. Quisque vitae hendrerit sem.</description>
+    </item>
+    <item>
+      <title>Sputter--反應式濺射磁控源</title>
+      <link>https://jindiamond.github.io/sputter/sputter_spec/</link>
+      <pubDate>Sat, 30 Mar 2024 00:20:00 +0000</pubDate>
+      <guid>https://jindiamond.github.io/sputter/sputter_spec/</guid>
+      <description>Phasellus quam turpis, feugiat sit amet ornare in, hendrerit in lectus. Praesent semper mod quis eget mi. Etiam eu ante risus. Aliquam erat volutpat. Aliquam luctus et mattis lectus sit amet pulvinar. Nam turpis nisi consequat etiam lorem ipsum dolor sit amet nullam.
+And Yet Another Subheading Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas ac quam risus, at tempus justo. Sed dictum rutrum massa eu volutpat. Quisque vitae hendrerit sem.</description>
+    </item>
+    <item>
+      <title>ATM Plasma I</title>
+      <link>https://jindiamond.github.io/atm_plasma/atmplasma_i/</link>
+      <pubDate>Sun, 31 Mar 2024 11:00:00 +0000</pubDate>
+      <guid>https://jindiamond.github.io/atm_plasma/atmplasma_i/</guid>
+      <description>Phasellus quam turpis, feugiat sit amet ornare in, hendrerit in lectus. Praesent semper mod quis eget mi. Etiam eu ante risus. Aliquam erat volutpat. Aliquam luctus et mattis lectus sit amet pulvinar. Nam turpis nisi consequat etiam lorem ipsum dolor sit amet nullam.
+And Yet Another Subheading Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas ac quam risus, at tempus justo. Sed dictum rutrum massa eu volutpat. Quisque vitae hendrerit sem.</description>
+    </item>
+    <item>
+      <title>Sputter--旋轉圓柱磁控源</title>
+      <link>https://jindiamond.github.io/sputter/sputter_ra/</link>
+      <pubDate>Sun, 31 Mar 2024 11:00:00 +0000</pubDate>
+      <guid>https://jindiamond.github.io/sputter/sputter_ra/</guid>
+      <description>Phasellus quam turpis, feugiat sit amet ornare in, hendrerit in lectus. Praesent semper mod quis eget mi. Etiam eu ante risus. Aliquam erat volutpat. Aliquam luctus et mattis lectus sit amet pulvinar. Nam turpis nisi consequat etiam lorem ipsum dolor sit amet nullam.
+And Yet Another Subheading Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas ac quam risus, at tempus justo. Sed dictum rutrum massa eu volutpat. Quisque vitae hendrerit sem.</description>
+    </item>
+    <item>
+      <title>Anode Layer Ion Sorce--離子濺射系統</title>
+      <link>https://jindiamond.github.io/iob/iob_sputter/</link>
+      <pubDate>Sun, 31 Mar 2024 11:00:00 +0000</pubDate>
+      <guid>https://jindiamond.github.io/iob/iob_sputter/</guid>
+      <description>Phasellus quam turpis, feugiat sit amet ornare in, hendrerit in lectus. Praesent semper mod quis eget mi. Etiam eu ante risus. Aliquam erat volutpat. Aliquam luctus et mattis lectus sit amet pulvinar. Nam turpis nisi consequat etiam lorem ipsum dolor sit amet nullam.
+And Yet Another Subheading Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas ac quam risus, at tempus justo. Sed dictum rutrum massa eu volutpat. Quisque vitae hendrerit sem.</description>
+    </item>
+    <item>
+      <title>Left Sidebar精鑽</title>
+      <link>https://jindiamond.github.io/left-sidebar/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/left-sidebar/</guid>
+      <guid>https://jindiamond.github.io/left-sidebar/</guid>
       <description>Phasellus quam turpis, feugiat sit amet ornare in, hendrerit in lectus. Praesent semper mod quis eget mi. Etiam eu ante risus. Aliquam erat volutpat. Aliquam luctus et mattis lectus sit amet pulvinar. Nam turpis nisi consequat etiam lorem ipsum dolor sit amet nullam.
 And Yet Another Subheading Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas ac quam risus, at tempus justo. Sed dictum rutrum massa eu volutpat. Quisque vitae hendrerit sem.</description>
     </item>
     <item>
       <title>Right Sidebar</title>
-      <link>https://example.org/right-sidebar/</link>
+      <link>https://jindiamond.github.io/right-sidebar/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/right-sidebar/</guid>
+      <guid>https://jindiamond.github.io/right-sidebar/</guid>
       <description>Phasellus quam turpis, feugiat sit amet ornare in, hendrerit in lectus. Praesent semper mod quis eget mi. Etiam eu ante risus. Aliquam erat volutpat. Aliquam luctus et mattis lectus sit amet pulvinar. Nam turpis nisi consequat etiam lorem ipsum dolor sit amet nullam.
 And Yet Another Subheading Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas ac quam risus, at tempus justo. Sed dictum rutrum massa eu volutpat. Quisque vitae hendrerit sem.</description>
     </item>
     <item>
       <title>Two Sidebar</title>
-      <link>https://example.org/two-sidebar/</link>
+      <link>https://jindiamond.github.io/two-sidebar/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/two-sidebar/</guid>
+      <guid>https://jindiamond.github.io/two-sidebar/</guid>
       <description>Phasellus quam turpis, feugiat sit amet ornare in, hendrerit in lectus. Praesent semper mod quis eget mi. Etiam eu ante risus. Aliquam erat volutpat. Aliquam luctus et mattis lectus sit amet pulvinar. Nam turpis nisi consequat etiam lorem ipsum dolor sit amet nullam.
 And Yet Another Subheading Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas ac quam risus, at tempus justo. Sed dictum rutrum massa eu volutpat. Quisque vitae hendrerit sem.</description>
+    </item>
+    <item>
+      <title>Anode Layer Ion Sorce--離子化學氣相沉積系統</title>
+      <link>https://jindiamond.github.io/iob/iob_spec/</link>
+      <pubDate>Sat, 30 Mar 2024 00:20:00 +0000</pubDate>
+      <guid>https://jindiamond.github.io/iob/iob_spec/</guid>
+      <description>Phasellus quam turpis, feugiat sit amet ornare in, hendrerit in lectus. Praesent semper mod quis eget mi. Etiam eu ante risus. Aliquam erat volutpat. Aliquam luctus et mattis lectus sit amet pulvinar. Nam turpis nisi consequat etiam lorem ipsum dolor sit amet nullam.
+And Yet Another Subheading Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas ac quam risus, at tempus justo. Sed dictum rutrum massa eu volutpat. Quisque vitae hendrerit sem.</description>
+    </item>
+    <item>
+      <title>磁控濺鍍源</title>
+      <link>https://jindiamond.github.io/left-sidebar--sputter/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://jindiamond.github.io/left-sidebar--sputter/</guid>
+      <description>矩型磁控濺鍍源
+產品介紹:
+# 矩型磁控濺鍍源 矩型磁控濺鍍源 () 這是一個放大的超連結 圓型磁控濺鍍源
+旋轉圓柱磁控濺鍍源
+And Yet Another Subheading Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas ac quam risus, at tempus justo. Sed dictum rutrum massa eu volutpat. Quisque vitae hendrerit sem. Pellentesque lorem felis, ultricies a bibendum id, bibendum sit amet nisl. Mauris et lorem quam. Maecenas rutrum imperdiet vulputate. Nulla quis nibh ipsum, sed egestas justo. Morbi ut ante mattis orci convallis tempor.</description>
+    </item>
+    <item>
+      <title>磁控濺鍍源--矩型</title>
+      <link>https://jindiamond.github.io/left-sidebar--sputter--rect/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://jindiamond.github.io/left-sidebar--sputter--rect/</guid>
+      <description>產品介紹: And Yet Another Subheading Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas ac quam risus, at tempus justo. Sed dictum rutrum massa eu volutpat. Quisque vitae hendrerit sem. Pellentesque lorem felis, ultricies a bibendum id, bibendum sit amet nisl. Mauris et lorem quam. Maecenas rutrum imperdiet vulputate. Nulla quis nibh ipsum, sed egestas justo. Morbi ut ante mattis orci convallis tempor. Etiam a lacus a lacus pharetra porttitor quis accumsan odio.</description>
     </item>
   </channel>
 </rss>

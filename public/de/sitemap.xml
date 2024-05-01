@@ -2,279 +2,279 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.org/de/</loc>
+    <loc>https://jindiamond.github.io/de/</loc>
     <lastmod>2020-01-06T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.org/"
+                href="https://jindiamond.github.io/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://example.org/es/"
+                href="https://jindiamond.github.io/es/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://example.org/de/"
+                href="https://jindiamond.github.io/de/"
                 />
   </url><url>
-    <loc>https://example.org/de/posts/</loc>
+    <loc>https://jindiamond.github.io/de/posts/</loc>
     <lastmod>2020-01-06T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.org/posts/"
+                href="https://jindiamond.github.io/posts/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://example.org/es/posts/"
+                href="https://jindiamond.github.io/es/posts/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://example.org/de/posts/"
+                href="https://jindiamond.github.io/de/posts/"
                 />
   </url><url>
-    <loc>https://example.org/de/left-sidebar/</loc>
+    <loc>https://jindiamond.github.io/de/left-sidebar/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.org/left-sidebar/"
+                href="https://jindiamond.github.io/left-sidebar/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://example.org/es/left-sidebar/"
+                href="https://jindiamond.github.io/es/left-sidebar/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://example.org/de/left-sidebar/"
+                href="https://jindiamond.github.io/de/left-sidebar/"
                 />
   </url><url>
-    <loc>https://example.org/de/right-sidebar/</loc>
+    <loc>https://jindiamond.github.io/de/right-sidebar/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.org/right-sidebar/"
+                href="https://jindiamond.github.io/right-sidebar/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://example.org/es/right-sidebar/"
+                href="https://jindiamond.github.io/es/right-sidebar/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://example.org/de/right-sidebar/"
+                href="https://jindiamond.github.io/de/right-sidebar/"
                 />
   </url><url>
-    <loc>https://example.org/de/two-sidebar/</loc>
+    <loc>https://jindiamond.github.io/de/two-sidebar/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.org/two-sidebar/"
+                href="https://jindiamond.github.io/two-sidebar/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://example.org/es/two-sidebar/"
+                href="https://jindiamond.github.io/es/two-sidebar/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://example.org/de/two-sidebar/"
+                href="https://jindiamond.github.io/de/two-sidebar/"
                 />
   </url><url>
-    <loc>https://example.org/de/no-sidebar/</loc>
+    <loc>https://jindiamond.github.io/de/no-sidebar/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.org/no-sidebar/"
+                href="https://jindiamond.github.io/no-sidebar/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://example.org/es/no-sidebar/"
+                href="https://jindiamond.github.io/es/no-sidebar/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://example.org/de/no-sidebar/"
+                href="https://jindiamond.github.io/de/no-sidebar/"
                 />
   </url><url>
-    <loc>https://example.org/de/tags/beispiel/</loc>
+    <loc>https://jindiamond.github.io/de/tags/beispiel/</loc>
     <lastmod>2020-01-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/de/posts/sixth/</loc>
-    <lastmod>2020-01-06T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://example.org/posts/sixth/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://example.org/es/posts/sixth/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://example.org/de/posts/sixth/"
-                />
-  </url><url>
-    <loc>https://example.org/de/tags/duis-neque/</loc>
+    <loc>https://jindiamond.github.io/de/posts/sixth/</loc>
     <lastmod>2020-01-06T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.org/tags/duis-neque/"
+                href="https://jindiamond.github.io/posts/sixth/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://example.org/es/tags/duis-neque/"
+                href="https://jindiamond.github.io/es/posts/sixth/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://example.org/de/tags/duis-neque/"
+                href="https://jindiamond.github.io/de/posts/sixth/"
                 />
   </url><url>
-    <loc>https://example.org/de/tags/</loc>
+    <loc>https://jindiamond.github.io/de/tags/duis-neque/</loc>
     <lastmod>2020-01-06T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.org/tags/"
+                href="https://jindiamond.github.io/tags/duis-neque/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://example.org/es/tags/"
+                href="https://jindiamond.github.io/es/tags/duis-neque/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://example.org/de/tags/"
+                href="https://jindiamond.github.io/de/tags/duis-neque/"
                 />
   </url><url>
-    <loc>https://example.org/de/posts/fifth/</loc>
+    <loc>https://jindiamond.github.io/de/tags/</loc>
+    <lastmod>2020-01-06T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://jindiamond.github.io/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://jindiamond.github.io/es/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://jindiamond.github.io/de/tags/"
+                />
+  </url><url>
+    <loc>https://jindiamond.github.io/de/posts/fifth/</loc>
     <lastmod>2020-01-05T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.org/posts/fifth/"
+                href="https://jindiamond.github.io/posts/fifth/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://example.org/es/posts/fifth/"
+                href="https://jindiamond.github.io/es/posts/fifth/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://example.org/de/posts/fifth/"
+                href="https://jindiamond.github.io/de/posts/fifth/"
                 />
   </url><url>
-    <loc>https://example.org/de/tags/lorem-ipsum/</loc>
+    <loc>https://jindiamond.github.io/de/tags/lorem-ipsum/</loc>
     <lastmod>2020-01-05T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.org/tags/lorem-ipsum/"
+                href="https://jindiamond.github.io/tags/lorem-ipsum/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://example.org/es/tags/lorem-ipsum/"
+                href="https://jindiamond.github.io/es/tags/lorem-ipsum/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://example.org/de/tags/lorem-ipsum/"
+                href="https://jindiamond.github.io/de/tags/lorem-ipsum/"
                 />
   </url><url>
-    <loc>https://example.org/de/posts/fourth/</loc>
+    <loc>https://jindiamond.github.io/de/posts/fourth/</loc>
     <lastmod>2020-01-04T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.org/posts/fourth/"
+                href="https://jindiamond.github.io/posts/fourth/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://example.org/es/posts/fourth/"
+                href="https://jindiamond.github.io/es/posts/fourth/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://example.org/de/posts/fourth/"
+                href="https://jindiamond.github.io/de/posts/fourth/"
                 />
   </url><url>
-    <loc>https://example.org/de/posts/third/</loc>
+    <loc>https://jindiamond.github.io/de/posts/third/</loc>
     <lastmod>2020-01-03T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.org/posts/third/"
+                href="https://jindiamond.github.io/posts/third/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://example.org/es/posts/third/"
+                href="https://jindiamond.github.io/es/posts/third/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://example.org/de/posts/third/"
+                href="https://jindiamond.github.io/de/posts/third/"
                 />
   </url><url>
-    <loc>https://example.org/de/posts/second/</loc>
+    <loc>https://jindiamond.github.io/de/posts/second/</loc>
     <lastmod>2020-01-02T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.org/posts/second/"
+                href="https://jindiamond.github.io/posts/second/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://example.org/es/posts/second/"
+                href="https://jindiamond.github.io/es/posts/second/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://example.org/de/posts/second/"
+                href="https://jindiamond.github.io/de/posts/second/"
                 />
   </url><url>
-    <loc>https://example.org/de/posts/first/</loc>
+    <loc>https://jindiamond.github.io/de/posts/first/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.org/posts/first/"
+                href="https://jindiamond.github.io/posts/first/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://example.org/es/posts/first/"
+                href="https://jindiamond.github.io/es/posts/first/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://example.org/de/posts/first/"
+                href="https://jindiamond.github.io/de/posts/first/"
                 />
   </url><url>
-    <loc>https://example.org/de/tags/beispiele/</loc>
+    <loc>https://jindiamond.github.io/de/tags/beispiele/</loc>
   </url><url>
-    <loc>https://example.org/de/tags/inhalt/</loc>
+    <loc>https://jindiamond.github.io/de/tags/inhalt/</loc>
   </url><url>
-    <loc>https://example.org/de/tags/seitenleiste/</loc>
+    <loc>https://jindiamond.github.io/de/tags/seitenleiste/</loc>
   </url>
 </urlset>

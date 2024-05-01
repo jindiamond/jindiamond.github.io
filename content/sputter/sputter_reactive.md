@@ -3,7 +3,7 @@ title: "Sputter--反應式濺射磁控源"
 description: "介紹反應式濺射磁控源規格"
 menu: main2
 weight: 30
-image: images/banner.jpg
+image: images/sputter/sputter_reactive.jpg
 image_alt: "Hello!"
 tags: ["examples", "content", "sidebar"]
 sidebar_left: sidebar3

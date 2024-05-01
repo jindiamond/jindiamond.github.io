@@ -1,35 +1,35 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>duis neque on Arcana for Hugo</title>
-    <link>https://example.org/tags/duis-neque/</link>
-    <description>Recent content in duis neque on Arcana for Hugo</description>
+    <title>duis neque on 精鑽股份有限公司 _default/config.toml</title>
+    <link>https://jindiamond.github.io/tags/duis-neque/</link>
+    <description>Recent content in duis neque on 精鑽股份有限公司 _default/config.toml</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© Untitled. All rights reserved</copyright>
     <lastBuildDate>Mon, 06 Jan 2020 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://example.org/tags/duis-neque/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://jindiamond.github.io/tags/duis-neque/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Sixth Thing</title>
-      <link>https://example.org/posts/sixth/</link>
+      <link>https://jindiamond.github.io/posts/sixth/</link>
       <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.org/posts/sixth/</guid>
+      <guid>https://jindiamond.github.io/posts/sixth/</guid>
       <description>Duis neque nisi, dapibus sed mattis et quis, nibh. Sed et dapibus nisl amet mattis, sed a rutrum accumsan sed. Suspendisse eu.
 Suspendisse laoreet metus ut metus imperdiet interdum aliquam justo tincidunt.</description>
     </item>
     <item>
       <title>The Third Thing</title>
-      <link>https://example.org/posts/third/</link>
+      <link>https://jindiamond.github.io/posts/third/</link>
       <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.org/posts/third/</guid>
+      <guid>https://jindiamond.github.io/posts/third/</guid>
       <description>Duis neque nisi, dapibus sed mattis et quis, nibh. Sed et dapibus nisl amet mattis, sed a rutrum accumsan sed. Suspendisse eu.
 Suspendisse laoreet metus ut metus imperdiet interdum aliquam justo tincidunt.</description>
     </item>
     <item>
       <title>The Second Thing</title>
-      <link>https://example.org/posts/second/</link>
+      <link>https://jindiamond.github.io/posts/second/</link>
       <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.org/posts/second/</guid>
+      <guid>https://jindiamond.github.io/posts/second/</guid>
       <description>Duis neque nisi, dapibus sed mattis et quis, nibh. Sed et dapibus nisl amet mattis, sed a rutrum accumsan sed. Suspendisse eu.
 Suspendisse laoreet metus ut metus imperdiet interdum aliquam justo tincidunt.</description>
     </item>
