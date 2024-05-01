@@ -3,7 +3,7 @@ title: "Anode Layer Ion Sorce--矩型離子源"
 description: "介紹矩型磁控源規格"
 menu: main2
 weight: 10
-image: images/banner.jpg
+image: images/Ion/IOB_AL_rect.jpg
 image_alt: "Hello!"
 tags: ["examples", "content", "sidebar"]
 sidebar_left: sidebar3

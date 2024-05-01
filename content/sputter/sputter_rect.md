@@ -13,10 +13,10 @@ date: "2024-03-30T00:20:00"
 
 Sputter Cathode 
 
-{{< figure src="/images/sputter/sputter_rect.jpg" width="50%" >}}
-### And Yet Another Subheading
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas ac quam risus, at tempus
-justo. Sed dictum rutrum massa eu volutpat. Quisque vitae hendrerit sem. Pellentesque lorem felis,
-ultricies a bibendum id, bibendum sit amet nisl. Mauris et lorem quam. Maecenas rutrum imperdiet
-vulputate. Nulla quis nibh ipsum, sed egestas justo. Morbi ut ante mattis orci convallis tempor.
+{{< figure src="/images/sputter/rect_ca02.png" width="50%" >}}
+### 優勢
+
+### 可選擇多區氣体分配 <br>
+### Ground水冷
+
 

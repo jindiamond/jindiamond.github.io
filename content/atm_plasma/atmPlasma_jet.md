@@ -3,7 +3,7 @@ title: "大氣等離子--Jet Type"
 description: "介紹大氣等離子--Jet Type規格"
 menu: main3
 weight: 10
-image: images/banner.jpg
+image: images/atmPlasma/AP_Jet.jpg
 image_alt: "Hello!"
 tags: ["examples", "content", "sidebar"]
 sidebar_left: sidebar3

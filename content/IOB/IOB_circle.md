@@ -3,7 +3,7 @@ title: "Anode Layer Ion Sorce--圓型離子源"
 description: "Sidebar on the left, content on the right."
 menu: main2
 weight: 20
-image: images/banner.jpg
+image: images/Ion/IOB_AL_cir01.jpg
 image_alt: "Hello!"
 tags: ["examples", "content", "sidebar"]
 sidebar_left: sidebar3

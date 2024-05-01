@@ -21,25 +21,21 @@ items:
         # [連結](./sputter)  
         **<< >>**
     - title: 離子源
-      icon: "images/bg01.png"
+      icon: fa-snowflake
       content: >
-        第一頁內容, dapibus sed mattis et quis, nibh. Sed et dapibus nisl
-        amet mattis, sed a rutrum accumsan sed. Suspendisse eu.
+        (矩型/圓型/IBSS/IBCVD)
     - title: 大氣等離子
       icon: fa-pencil-alt
       content: >
-        Duis neque nisi, dapibus sed mattis et quis, nibh. Sed et dapibus nisl
-        amet mattis, sed a rutrum accumsan sed. Suspendisse eu.
+        (Jet Type/ DVD type)
     - title: 微波源
-      icon: fa-wrench
+      icon: fa-business-time #fa-wave-square #fa-wrench
       content: >
-        Duis neque nisi, dapibus sed mattis et quis, nibh. Sed et dapibus nisl
-        amet mattis, sed a rutrum accumsan sed. Suspendisse eu.
+        ##
     - title: 高溫爐
-      icon: fa-snowflake #fa-solid fa-snowflake  #fa-paper-plane
+      icon: fa-fire #fa-solid fa-snowflake  #fa-paper-plane
       content: >
-        第一頁內容, dapibus sed mattis et quis, nibh. Sed et dapibus nisl
-        amet mattis, sed a rutrum accumsan sed. Suspendisse eu.
+        ##
       
   - type: heading
     heading: 我們的使命

@@ -3,7 +3,7 @@ title: "Anode Layer Ion Sorce--離子濺射系統"
 description: "旋轉圓柱磁控源Sidebar on the left, content on the right."
 menu: main2
 weight: 100
-image: images/banner.jpg
+image: images/Ion/IOB_sputter.jpg
 image_alt: "Hello!"
 tags: ["examples", "content", "sidebar"]
 sidebar_left: sidebar3
