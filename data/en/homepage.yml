@@ -39,7 +39,7 @@ items:
       
   - type: heading
     heading: 我們的使命
-    contents: With a much smaller subtitle hanging out just below it
+    contents: With-- a much smaller subtitle hanging out just below it
   - type: posts
     #heading: Recent Posts
     content_type: posts
