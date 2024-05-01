@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>content on 精鑽股份有限公司 _default/config.toml</title>
+    <title>content on 精鑽股份有限公司</title>
     <link>https://jindiamond.github.io/tags/content/</link>
-    <description>Recent content in content on 精鑽股份有限公司 _default/config.toml</description>
+    <description>Recent content in content on 精鑽股份有限公司</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© Untitled. All rights reserved</copyright>
@@ -22,8 +22,8 @@ And Yet Another Subheading Lorem ipsum dolor sit amet, consectetur adipiscing el
       <link>https://jindiamond.github.io/sputter/sputter_rect/</link>
       <pubDate>Sat, 30 Mar 2024 00:20:00 +0000</pubDate>
       <guid>https://jindiamond.github.io/sputter/sputter_rect/</guid>
-      <description>Phasellus quam turpis, feugiat sit amet ornare in, hendrerit in lectus. Praesent semper mod quis eget mi. Etiam eu ante risus. Aliquam erat volutpat. Aliquam luctus et mattis lectus sit amet pulvinar. Nam turpis nisi consequat etiam lorem ipsum dolor sit amet nullam.
-And Yet Another Subheading Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas ac quam risus, at tempus justo. Sed dictum rutrum massa eu volutpat. Quisque vitae hendrerit sem.</description>
+      <description>Sputter Cathode
+And Yet Another Subheading Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas ac quam risus, at tempus justo. Sed dictum rutrum massa eu volutpat. Quisque vitae hendrerit sem. Pellentesque lorem felis, ultricies a bibendum id, bibendum sit amet nisl. Mauris et lorem quam. Maecenas rutrum imperdiet vulputate. Nulla quis nibh ipsum, sed egestas justo. Morbi ut ante mattis orci convallis tempor.</description>
     </item>
     <item>
       <title>大氣等離子--Jet Type</title>
@@ -46,8 +46,8 @@ And Yet Another Subheading Lorem ipsum dolor sit amet, consectetur adipiscing el
       <link>https://jindiamond.github.io/sputter/sputter_circle/</link>
       <pubDate>Sun, 31 Mar 2024 11:00:00 +0000</pubDate>
       <guid>https://jindiamond.github.io/sputter/sputter_circle/</guid>
-      <description>Phasellus quam turpis, feugiat sit amet ornare in, hendrerit in lectus. Praesent semper mod quis eget mi. Etiam eu ante risus. Aliquam erat volutpat. Aliquam luctus et mattis lectus sit amet pulvinar. Nam turpis nisi consequat etiam lorem ipsum dolor sit amet nullam.
-And Yet Another Subheading Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas ac quam risus, at tempus justo. Sed dictum rutrum massa eu volutpat. Quisque vitae hendrerit sem.</description>
+      <description>內文 Aliquam luctus et mattis lectus sit amet pulvinar. Nam turpis nisi consequat etiam lorem ipsum dolor sit amet nullam.
+And Yet Another Subheading Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas ac quam risus, at tempus</description>
     </item>
     <item>
       <title>大氣等離子--DBD Type</title>
@@ -67,9 +67,9 @@ And Yet Another Subheading Lorem ipsum dolor sit amet, consectetur adipiscing el
     </item>
     <item>
       <title>Sputter--反應式濺射磁控源</title>
-      <link>https://jindiamond.github.io/sputter/sputter_spec/</link>
+      <link>https://jindiamond.github.io/sputter/sputter_reactive/</link>
       <pubDate>Sat, 30 Mar 2024 00:20:00 +0000</pubDate>
-      <guid>https://jindiamond.github.io/sputter/sputter_spec/</guid>
+      <guid>https://jindiamond.github.io/sputter/sputter_reactive/</guid>
       <description>Phasellus quam turpis, feugiat sit amet ornare in, hendrerit in lectus. Praesent semper mod quis eget mi. Etiam eu ante risus. Aliquam erat volutpat. Aliquam luctus et mattis lectus sit amet pulvinar. Nam turpis nisi consequat etiam lorem ipsum dolor sit amet nullam.
 And Yet Another Subheading Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas ac quam risus, at tempus justo. Sed dictum rutrum massa eu volutpat. Quisque vitae hendrerit sem.</description>
     </item>
