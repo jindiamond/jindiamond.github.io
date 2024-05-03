@@ -4,8 +4,6 @@ description: "圓形磁控管多功能、緊湊的設計其緊湊的設計使我
 menu: main2
 weight: 20
 image: images/sputter/sputter_circular.jpg
-image_alt: "Hello!"
-tags: ["examples", "content", "sidebar"]
 sidebar_left: sidebar3
 draft: false
 date: "2024-03-31T11:00:00"

@@ -5,7 +5,6 @@ menu: main3
 weight: 20
 image: images/atmPlasma/AP_DBD.jpg
 image_alt: "Hello!"
-tags: ["examples", "content", "sidebar"]
 sidebar_left: sidebar3
 draft: false
 date: "2024-03-31T11:00:00"

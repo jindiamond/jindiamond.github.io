@@ -5,7 +5,6 @@ menu: main3
 weight: 10
 image: images/atmPlasma/AP_Jet.jpg
 image_alt: "Hello!"
-tags: ["examples", "content", "sidebar"]
 sidebar_left: sidebar3
 draft: false
 date: "2024-03-30T00:20:00"

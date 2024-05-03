@@ -4,8 +4,6 @@ description: "旋轉圓柱磁控源Sidebar on the left, content on the right."
 menu: main2
 weight: 40
 image: images/sputter/RA_cathode.jpg
-image_alt: "Hello!"
-tags: ["examples", "content", "sidebar"]
 sidebar_left: sidebar3
 draft: false
 date: "2024-03-31T11:00:00"

@@ -5,29 +5,31 @@ menu: main2
 weight: 10
 image: images/Ion/IOB_AL_rect.jpg
 image_alt: "Hello!"
-tags: ["examples", "content", "sidebar"]
 sidebar_left: sidebar3
 draft: false
 date: "2024-03-30T00:20:00"
 ---
-Phasellus quam turpis, feugiat sit amet ornare in, hendrerit in lectus.
-Praesent semper mod quis eget mi. Etiam eu ante risus. Aliquam erat volutpat.
-Aliquam luctus et mattis lectus sit amet pulvinar. Nam turpis nisi
-consequat etiam lorem ipsum dolor sit amet nullam.
 
-### And Yet Another Subheading
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas ac quam risus, at tempus
-justo. Sed dictum rutrum massa eu volutpat. Quisque vitae hendrerit sem. Pellentesque lorem felis,
-ultricies a bibendum id, bibendum sit amet nisl. Mauris et lorem quam. Maecenas rutrum imperdiet
-vulputate. Nulla quis nibh ipsum, sed egestas justo. Morbi ut ante mattis orci convallis tempor.
-Etiam a lacus a lacus pharetra porttitor quis accumsan odio. Sed vel euismod nisi. Etiam convallis
-rhoncus dui quis euismod. Maecenas lorem tellus, congue et condimentum ac, ullamcorper non sapien.
-Donec sagittis massa et leo semper a scelerisque metus faucibus. Morbi congue mattis mi.
-Phasellus sed nisl vitae risus tristique volutpat. Cras rutrum commodo luctus.
+# 線性矩型濺鍍源原理
 
-Phasellus odio risus, faucibus et viverra vitae, eleifend ac purus. Praesent mattis, enim
-quis hendrerit porttitor, sapien tortor viverra magna, sit amet rhoncus nisl lacus nec arcu.
-Suspendisse laoreet metus ut metus imperdiet interdum aliquam justo tincidunt. Mauris dolor urna,
-fringilla vel malesuada ac, dignissim eu mi. Praesent mollis massa ac nulla pretium pretium.
-Maecenas tortor mauris, consectetur pellentesque dapibus eget, tincidunt vitae arcu.
-Vestibulum purus augue, tincidunt sit amet iaculis id, porta eu purus.
+線性矩型濺鍍源是一種高速低溫濺鍍法，通常指的是磁控濺鍍。以下是其基本原理：
+
+## 真空環境：在真空度約為1×10^-3 Torr（或1.3×10^-3 Pa）的條件下，通入惰性氣體（通常是氬氣，Ar）作為媒介。
+
+## 靶材和基材：在濺鍍過程中，我們需要一個金屬靶材（陰極）和一個塑膠基材（陽極）。這兩者之間加上高壓直流電。
+
+## 輝光放電（glow discharge）：由於高壓直流電，輝光放電產生電子，激發惰性氣體，形成電漿。
+
+
+## 濺射：電漿中的正離子轟擊金屬靶材，使其原子被撞擊出，並沉積在塑膠基材上，形成鍍膜。
+
+
+# 線性矩型濺鍍源特性
+
+## 濺射速度：線性矩型濺鍍源的濺射速度取決於靶材和工藝參數。不同材料的濺射速度也不同，例如銅（Cu）、金（Au）和銀（Ag）的濺射速度較快，而鈦（Ti）、鉬（Mo）、鉭（Ta）和鎢（W）的濺射速度較慢。
+
+## 靶材利用率：線性矩型濺鍍源的靶材利用率通常在20%到50%之間。不同形狀的靶材（例如平面型和圓柱型）具有不同的利用率。
+
+## 附著力：與其他濺鍍方法相比，線性矩型濺鍍源的鍍膜附著力較高，適用於多種材料。
+
+## 應用範圍：線性矩型濺鍍源可用於鍍膜和刻蝕，並且適用於金屬和非金屬材料。
