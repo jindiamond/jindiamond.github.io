@@ -1,17 +1,29 @@
 ---
 title: "Sputter--圓型磁控源"
-description: "圓形磁控管多功能、緊湊的設計其緊湊的設計使我們的圓形磁控管非常適合任何新的或改造的應用，包括用於最小真空室的最複雜的群集組件。尺寸由2'',3'',4'',5'',6'',8'',12'',16''"
+description: "多功能、緊湊的設計其緊湊的設計使的圓形磁控管適合各式場景的應用，包括用於最小真空室的最複雜的鍍膜系統。尺寸由2'',3'',4'',5'',6'',8'',12'',16''"
 menu: main2
 weight: 20
 image: images/sputter/sputter_circular.jpg
-sidebar_left: sidebar3
+image_alt: "Hello!"
 draft: false
 date: "2024-03-31T11:00:00"
 ---
-內文
-Aliquam luctus et mattis lectus sit amet pulvinar. Nam turpis nisi
-consequat etiam lorem ipsum dolor sit amet nullam.
 
-### And Yet Another Subheading
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas ac quam risus, at tempus
+## 介紹 (Introduction):
+
+{{< figure src="/images/sputter/rectCA_spc01.jpg" width="80%" >}}
+* 圓形磁控濺鍍源是一種廣泛應用的於均勻塗層和大面積基材的應用。
+* 它的設計有助於實現均勻的濺鍍分佈。
+
+- 規格 (Specifications): 2''~16'' (固定磁場)
+- 適用靶材材料 (Material): 
+    - 非磁性金屬材料(厚度:6-12mm)
+    - 磁性金屬材料(Fe 1mm,Ni 3mm)
+- 最大功率 (Max Power): 7W/cm^2
+- 應用 (Applications): 
+    - 光學薄膜
+    - 集成電路
+    - LED、主動元件、被動元件
+    - Solar Cell
+    - 半導体、封測、,EMI等
 

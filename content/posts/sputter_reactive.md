@@ -1,33 +1,33 @@
 ---
 title: "Sputter--反應式濺射磁控源"
-description: "介紹反應式濺射磁控源規格"
+description: "金屬材料與離化反應氣体結合成陶瓷膜"
 menu: main2
 weight: 30
 image: images/sputter/sputter_reactive.jpg
 image_alt: "Hello!"
-tags: ["examples", "content", "sidebar"]
-sidebar_left: sidebar3
 draft: false
 date: "2024-03-30T00:20:00"
 ---
-Phasellus quam turpis, feugiat sit amet ornare in, hendrerit in lectus.
-Praesent semper mod quis eget mi. Etiam eu ante risus. Aliquam erat volutpat.
-Aliquam luctus et mattis lectus sit amet pulvinar. Nam turpis nisi
-consequat etiam lorem ipsum dolor sit amet nullam.
 
-### And Yet Another Subheading
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas ac quam risus, at tempus
-justo. Sed dictum rutrum massa eu volutpat. Quisque vitae hendrerit sem. Pellentesque lorem felis,
-ultricies a bibendum id, bibendum sit amet nisl. Mauris et lorem quam. Maecenas rutrum imperdiet
-vulputate. Nulla quis nibh ipsum, sed egestas justo. Morbi ut ante mattis orci convallis tempor.
-Etiam a lacus a lacus pharetra porttitor quis accumsan odio. Sed vel euismod nisi. Etiam convallis
-rhoncus dui quis euismod. Maecenas lorem tellus, congue et condimentum ac, ullamcorper non sapien.
-Donec sagittis massa et leo semper a scelerisque metus faucibus. Morbi congue mattis mi.
-Phasellus sed nisl vitae risus tristique volutpat. Cras rutrum commodo luctus.
+{{< figure src="/images/sputter/reactive_priciple.jpg" width="50%" >}}
 
-Phasellus odio risus, faucibus et viverra vitae, eleifend ac purus. Praesent mattis, enim
-quis hendrerit porttitor, sapien tortor viverra magna, sit amet rhoncus nisl lacus nec arcu.
-Suspendisse laoreet metus ut metus imperdiet interdum aliquam justo tincidunt. Mauris dolor urna,
-fringilla vel malesuada ac, dignissim eu mi. Praesent mollis massa ac nulla pretium pretium.
-Maecenas tortor mauris, consectetur pellentesque dapibus eget, tincidunt vitae arcu.
-Vestibulum purus augue, tincidunt sit amet iaculis id, porta eu purus.
+## 介紹 (Introduction):
+- ### 反應磁控濺鍍源允許不同材料的同時濺鍍，以製造複合塗層。
+- ### 它在多層堆疊、多元化塗層和特殊合金的生產中非常有用。
+- ### 反應性濺鍍的成功與反應性氣體與氬氣的配比有關。
+- ### 不同的靶材需要不同的配比，以產生高品質的化合物薄膜
+
+- ### 規格 (Specifications):
+    - ### 靶材數量 (Number of Targets): 2
+    - ### 材料: 
+        - ### Ti (TiO2,TiN)
+        - ### Nb (Nb2O5)
+        - ### Si (SiO2,SiN,SiC)
+    - ### 最大功率 (Max Power): 7W/cm^2
+    - ### 應用 (Applications): 
+        - ### 多層塗層、複合材料、特殊合金等
+        - ### 光學薄膜
+        - ### 集成電路
+        - ### LED、主動元件、被動元件
+        - ### Solar Cell
+        - ### 半導体、封測、,EMI等

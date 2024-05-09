@@ -3,29 +3,22 @@ title: "Sputter--旋轉圓柱磁控源"
 description: "旋轉圓柱磁控源Sidebar on the left, content on the right."
 menu: main2
 weight: 40
-image: images/sputter/RA_cathode.jpg
-sidebar_left: sidebar3
+image: 
+image_alt: "Hello!"
 draft: false
 date: "2024-03-31T11:00:00"
 ---
-Phasellus quam turpis, feugiat sit amet ornare in, hendrerit in lectus.
-Praesent semper mod quis eget mi. Etiam eu ante risus. Aliquam erat volutpat.
-Aliquam luctus et mattis lectus sit amet pulvinar. Nam turpis nisi
-consequat etiam lorem ipsum dolor sit amet nullam.
+{{< figure src="/images/sputter/RA_sputter002.png" width="80%" >}}
+images/sputter/RA_cathode.jpg
+- ## 旋轉圓柱磁控濺鍍源具有以下特點：
+    - ### 旋轉機制：靶材部分是一個圓柱，可以旋轉。這有助於均勻濺鍍整個基板表面。
+    - ### 磁場設計：磁場的設計使得電子在靶材表面附近成螺旋狀運行，增加了電子撞擊氬氣產生離子的機率。
+    - ### 利用率：旋轉式靶材之滾筒陰極磁座技術可大幅提升利用率至70%。
+    - ### 旋轉圓柱磁控濺鍍源的使用方法
 
-### And Yet Another Subheading
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas ac quam risus, at tempus
-justo. Sed dictum rutrum massa eu volutpat. Quisque vitae hendrerit sem. Pellentesque lorem felis,
-ultricies a bibendum id, bibendum sit amet nisl. Mauris et lorem quam. Maecenas rutrum imperdiet
-vulputate. Nulla quis nibh ipsum, sed egestas justo. Morbi ut ante mattis orci convallis tempor.
-Etiam a lacus a lacus pharetra porttitor quis accumsan odio. Sed vel euismod nisi. Etiam convallis
-rhoncus dui quis euismod. Maecenas lorem tellus, congue et condimentum ac, ullamcorper non sapien.
-Donec sagittis massa et leo semper a scelerisque metus faucibus. Morbi congue mattis mi.
-Phasellus sed nisl vitae risus tristique volutpat. Cras rutrum commodo luctus.
+- ## 操作方式和一般濺鍍相似，但需要注意以下事項：
+    - ### 真空抽取：先將真空抽至1×10^-2 Pa。
+    - ### 氬氣離子轟擊：通入氬氣，使其離子轟擊靶材。
+    - ### 電流、電壓及壓力控制：在5×10^-1 - 1.0 Pa的壓力下進行濺鍍，注意電流、電壓和壓力。
+    - ### 避免打火：開始時濺鍍若有打火，可緩慢調升電壓，待穩定放電後再關閉濺鍍遮光板（shutter）2。
 
-Phasellus odio risus, faucibus et viverra vitae, eleifend ac purus. Praesent mattis, enim
-quis hendrerit porttitor, sapien tortor viverra magna, sit amet rhoncus nisl lacus nec arcu.
-Suspendisse laoreet metus ut metus imperdiet interdum aliquam justo tincidunt. Mauris dolor urna,
-fringilla vel malesuada ac, dignissim eu mi. Praesent mollis massa ac nulla pretium pretium.
-Maecenas tortor mauris, consectetur pellentesque dapibus eget, tincidunt vitae arcu.
-Vestibulum purus augue, tincidunt sit amet iaculis id, porta eu purus.
