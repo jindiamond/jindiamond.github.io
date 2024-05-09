@@ -5,14 +5,11 @@ banner:
   button:
     contents: "Learn More"
     url: "/sputter"
-  button2:
-    contents: "Learn More"
-    url: "/iob"
 items:
        
   - type: heading
     heading: 我們的使命
-    contents: With-- a much smaller subtitle hanging out just below it
+    contents: 專心於設計和製造用於薄膜沉積的設備創造創新，不斷提昇專業經驗和突破性的解決方案。
   - type: posts
     #heading: Recent Posts
     content_type: posts
