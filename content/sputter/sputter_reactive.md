@@ -9,7 +9,7 @@ draft: false
 date: "2024-03-30T00:20:00"
 ---
 
-{{< figure src="/images/sputter/reactive_priciple.jpg" width="80%" >}}
+{{< figure src="/images/sputter/reactive_priciple.jpg" width="50%" >}}
 
 ## 介紹 (Introduction):
 - ### 反應磁控濺鍍源允許不同材料的同時濺鍍，以製造複合塗層。

@@ -3,13 +3,13 @@ title: "Sputter--旋轉圓柱磁控源"
 description: "旋轉圓柱磁控源Sidebar on the left, content on the right."
 menu: main2
 weight: 40
-image: images/sputter/RA_cathode.jpg
+image: 
 image_alt: "Hello!"
 draft: false
 date: "2024-03-31T11:00:00"
 ---
 {{< figure src="/images/sputter/RA_sputter002.png" width="80%" >}}
-
+images/sputter/RA_cathode.jpg
 - ## 旋轉圓柱磁控濺鍍源具有以下特點：
     - ### 旋轉機制：靶材部分是一個圓柱，可以旋轉。這有助於均勻濺鍍整個基板表面。
     - ### 磁場設計：磁場的設計使得電子在靶材表面附近成螺旋狀運行，增加了電子撞擊氬氣產生離子的機率。

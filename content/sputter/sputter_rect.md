@@ -5,7 +5,6 @@ menu: main2
 weight: 10
 image: images/sputter/sputter_rect.jpg
 image_alt: "Hello!"
-sidebar_left: sidebar3
 draft: false
 date: "2024-03-30T00:20:00"
 ---
