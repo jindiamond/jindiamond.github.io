@@ -1,7 +1,7 @@
 [[main]]
     name = "產品"
-    weight = 3000
-    url = "/right-sidebar"
+    weight = 65
+    url = "/posts"
 [[main]]
     parent = "產品"
     name = "磁控濺射源 >>"
@@ -9,93 +9,101 @@
     url = "/sputter"
 
 [[main]]
-    parent = "磁控濺射源 >>"
-    name = "矩型靶源"
-    weight = 41
-    url = "../left-sidebar--sputter--rect"
-[[main]]
-    parent = "磁控濺射源 >>"
-    name = "圓型靶源"
-    weight = 42
-    url = "../left-sidebar"
-[[main]]
-    parent = "磁控濺射源 >>"
-    name = "旋轉圓柱靶源"
-    weight = 43
-    url = "../left-sidebar"
-
-
-[[main]]
     parent = "產品"
     name = "離子源  >>"
     weight = 50
     url = "/IOB"
+
+
+[[main]]
+    parent = "產品"
+    name = "大氣電漿>>"
+    weight = 60
+
+    [[main]]
+    parent = "產品"
+    name = "高溫爐(施工中)"
+    weight = 70
+
+
+
+
+[[main]]
+    parent = "磁控濺射源 >>"
+    name = "矩型靶源"
+    weight = 41
+    url = "/sputter/sputter_rect"
+[[main]]
+    parent = "磁控濺射源 >>"
+    name = "圓型靶源"
+    weight = 42
+    url = "/sputter/sputter_circle"
+[[main]]
+    parent = "磁控濺射源 >>"
+    name = "旋轉圓柱靶源"
+    weight = 43
+    url = "/sputter/sputter_RA"
+
+
+
+
+
+
+
 [[main]]
     parent = "離子源  >>"
     name = "矩型離子源"
     weight = 51
-    url = "../left-sidebar"
+    url = "/iob/IOB_rect"
 [[main]]
     parent = "離子源  >>"
     name = "圓型離子源"
     weight = 52
-    url = "../left-sidebar"
+    url = "/iob/IOB_circle"
 [[main]]
     parent = "離子源  >>"
-    name = "RF式離子源"
+    name = "離子濺射系統"
     weight = 53
-    url = "../left-sidebar"
+    url = "/iob/IOB_Sputter"
 [[main]]
     parent = "離子源  >>"
-    name = "Filment式離子源"
+    name = "離子化學氣相沉積系統"
     weight = 53
-    url = "../left-sidebar"
+    url = "/iob/IOB_CVD"
+
 
 
 
 
 
 [[main]]
-    parent = "產品"
-    name = "高溫爐"
-    weight = 60
-[[main]]
-    parent = "產品"
-    name = "大氣電漿"
-    weight = 70
-[[main]]
-    parent = "大氣電漿"
+    parent = "大氣電漿>>"
     name = "Jet Type"
     identifier = "sub-lorem"
+    url = "/atm_plasma/atmPlasma_jet"
     weight = 35
 [[main]]
-    parent = "大氣電漿"
+    parent = "大氣電漿>>"
     name = "DBD"
+    url = "/atm_plasma/atmPlasma_dvd"
     weight = 36
 [[main]]
-    parent = "大氣電漿"
-    name = "Magna phasellus"
+    parent = "大氣電漿>>"
+    name = "(施工中)"
+    url = "/atm_plasma/atmPlasma_jet"
     weight = 37
-[[main]]
-    parent = "大氣電漿"
-    name = "Etiam nisl"
-    weight = 38
-[[main]]
-    parent = "大氣電漿"
-    name = "Veroeros feugiat"
-    identifier = "sub-veroeros"
-    weight = 39
+
 
 [[main]]
-    name = "About"
-    weight = 90
+    name = "About(施工中)"
+    weight = 6000
 
 [[main]]
-    parent = "About"
+    parent = "About(施工中)"
     name = "Data01"
-    weight = 91
+    weight = 6001
     url = "/left-sidebar"
 [[main]]
-    parent = "About"
+    parent = "About(施工中)"
     name = "Data02"
-    weight = 92
+    weight = 6002

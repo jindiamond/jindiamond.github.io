@@ -5,28 +5,35 @@ menu: main3
 weight: 10
 image: images/atmPlasma/AP_Jet.jpg
 image_alt: "Hello!"
-sidebar_left: sidebar3
 draft: false
 date: "2024-03-30T00:20:00"
 ---
-Phasellus quam turpis, feugiat sit amet ornare in, hendrerit in lectus.
-Praesent semper mod quis eget mi. Etiam eu ante risus. Aliquam erat volutpat.
-Aliquam luctus et mattis lectus sit amet pulvinar. Nam turpis nisi
-consequat etiam lorem ipsum dolor sit amet nullam.
 
-### And Yet Another Subheading
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas ac quam risus, at tempus
-justo. Sed dictum rutrum massa eu volutpat. Quisque vitae hendrerit sem. Pellentesque lorem felis,
-ultricies a bibendum id, bibendum sit amet nisl. Mauris et lorem quam. Maecenas rutrum imperdiet
-vulputate. Nulla quis nibh ipsum, sed egestas justo. Morbi ut ante mattis orci convallis tempor.
-Etiam a lacus a lacus pharetra porttitor quis accumsan odio. Sed vel euismod nisi. Etiam convallis
-rhoncus dui quis euismod. Maecenas lorem tellus, congue et condimentum ac, ullamcorper non sapien.
-Donec sagittis massa et leo semper a scelerisque metus faucibus. Morbi congue mattis mi.
-Phasellus sed nisl vitae risus tristique volutpat. Cras rutrum commodo luctus.
+## 大氣等離子功能簡介
+### - 清潔---去除表面污染物（如油脂、助焊劑、脫模劑等）。
+### - 活化---形成新的官能基團，提高表面極性、浸潤性、粘結性和反應性。
+### - 刻蝕---表面分子氣化，使表面粗糙化，增加滲透性和結合面積。
+### - 技術優勢---大氣等離子體能顯著提升材料表面附著力，適用於粘合、塗漆和結合。噴嘴可固定或安裝在多軸機器人上，適合各種材料（聚合物、玻璃、陶瓷和金屬），無需昂貴氣體。
 
-Phasellus odio risus, faucibus et viverra vitae, eleifend ac purus. Praesent mattis, enim
-quis hendrerit porttitor, sapien tortor viverra magna, sit amet rhoncus nisl lacus nec arcu.
-Suspendisse laoreet metus ut metus imperdiet interdum aliquam justo tincidunt. Mauris dolor urna,
-fringilla vel malesuada ac, dignissim eu mi. Praesent mollis massa ac nulla pretium pretium.
-Maecenas tortor mauris, consectetur pellentesque dapibus eget, tincidunt vitae arcu.
-Vestibulum purus augue, tincidunt sit amet iaculis id, porta eu purus.
+{{< figure src="/images/atmPlasma/ATM_JET_app02.png" width="50%" >}}
+
+
+## 大氣等離子主要應用場景
+### - 制程前處理
+### - 膠合前處理
+### - 密封前處理
+### - 塗覆前處理
+### - 印刷前處理
+### - 滅菌/消除微生物污染
+### - 材料改性處理
+
+
+## 大氣等離子在汽車工業應用
+### - 表面清潔和活化，提升附著力
+### - 粘接前快速預處理
+### - 超精細清洗和表面處理
+
+## 大氣等離子體技術運營成本低，易於與自動化生產線集成，是工業加工的理想選擇。
+
+
+{{< figure src="/images/atmPlasma/ATM_JET_0010.png" width="50%" >}}

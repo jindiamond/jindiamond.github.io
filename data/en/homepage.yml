@@ -13,7 +13,7 @@ items:
   - type: posts
     #heading: Recent Posts
     content_type: posts
-    max: 10
+    max: 16
   - type: cta
     contents: Are you ready to continue your quest?
     button:

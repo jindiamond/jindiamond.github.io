@@ -5,29 +5,54 @@ menu: main3
 weight: 20
 image: images/atmPlasma/AP_DBD.jpg
 image_alt: "Hello!"
-tags: ["examples", "content", "sidebar"]
-sidebar_left: sidebar3
 draft: false
 date: "2024-03-31T11:00:00"
 ---
-Phasellus quam turpis, feugiat sit amet ornare in, hendrerit in lectus.
-Praesent semper mod quis eget mi. Etiam eu ante risus. Aliquam erat volutpat.
-Aliquam luctus et mattis lectus sit amet pulvinar. Nam turpis nisi
-consequat etiam lorem ipsum dolor sit amet nullam.
+### 介質阻擋放電（DBD）簡介
 
-### And Yet Another Subheading
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas ac quam risus, at tempus
-justo. Sed dictum rutrum massa eu volutpat. Quisque vitae hendrerit sem. Pellentesque lorem felis,
-ultricies a bibendum id, bibendum sit amet nisl. Mauris et lorem quam. Maecenas rutrum imperdiet
-vulputate. Nulla quis nibh ipsum, sed egestas justo. Morbi ut ante mattis orci convallis tempor.
-Etiam a lacus a lacus pharetra porttitor quis accumsan odio. Sed vel euismod nisi. Etiam convallis
-rhoncus dui quis euismod. Maecenas lorem tellus, congue et condimentum ac, ullamcorper non sapien.
-Donec sagittis massa et leo semper a scelerisque metus faucibus. Morbi congue mattis mi.
-Phasellus sed nisl vitae risus tristique volutpat. Cras rutrum commodo luctus.
+介質阻擋放電（DBD）是一種利用高電壓在兩個電極之間形成等離子體的方法。這些電極之間至少有一個被電介質絕緣，防止電弧放電，並產生許多短暫的等離子體絲。在交流電壓（通常為數千赫茲）下，這些等離子體絲能夠在低壓和大氣壓力下形成，並且以“冷”等離子體形式存在，其中電子溫度高，但中性氣體和離子的溫度接近室溫，適合處理溫度敏感材料。
 
-Phasellus odio risus, faucibus et viverra vitae, eleifend ac purus. Praesent mattis, enim
-quis hendrerit porttitor, sapien tortor viverra magna, sit amet rhoncus nisl lacus nec arcu.
-Suspendisse laoreet metus ut metus imperdiet interdum aliquam justo tincidunt. Mauris dolor urna,
-fringilla vel malesuada ac, dignissim eu mi. Praesent mollis massa ac nulla pretium pretium.
-Maecenas tortor mauris, consectetur pellentesque dapibus eget, tincidunt vitae arcu.
-Vestibulum purus augue, tincidunt sit amet iaculis id, porta eu purus.
+#### DBD 的應用範圍
+
+DBD 技術應用廣泛，包括：
+
+1. **臭氧和紫外線產生**
+2. **空氣和廢水處理**
+3. **包裝和食品滅菌**
+4. **表面活化、清潔、蝕刻和塗層**
+
+其多樣的應用主要得益於 DBD 系統可根據需要配置成不同的形狀和尺寸，適應各種工業需求。
+
+#### 工業應用
+
+- **半導體製造**
+- **殺菌工藝**
+- **聚合物表面處理**
+- **高功率 CO2 雷射器**
+- **污染控制**
+- **等離子顯示面板**
+- **空氣動力學流量控制**
+
+DBD 技術在紡織品處理中尤為重要，用於改變表面性能，提高潤濕性、附著力和染料吸收，並提供乾燥處理，無需廢水。
+
+#### 臭氧生產
+
+DBD 已被應用於臭氧生產，自 1850 年代西門子發明以來，DBD 成為臭氧生產的標準技術，特別適用於需要大量臭氧的水凈化過程。DBD 能夠以高效率和低能耗生產臭氧，是現代臭氧發生器的核心技術之一。
+
+#### 其他應用
+
+- **氣體重整**：將一種氣體轉化為另一種氣體，適用於環境保護和能源轉化。
+- **氣體洗滌**：從垃圾填埋場氣體中去除矽氧烷，生成有用的最終產品，如甲烷。
+- **固氮**：從空氣中產生 NOx，成為固氮過程中的關鍵組成部分。
+
+#### 未來發展
+
+DBD 技術在工業應用中的滲透率不斷提高，現代建模和診斷工具的發展幫助更好地理解放電過程和等離子體化學反應。電極結構和放電裝置的小型化以及經濟高效的大規模製造技術推動了 DBD 在顯示設備等新應用中的廣泛使用。DBD 現在已成為製造業中受歡迎的選擇，具有顯著的經濟和技術優勢。
+
+
+
+
+
+{{< figure src="/images/atmPlasma/ATM_DBD_0010.png" width="50%" >}}
+{{< figure src="/images/atmPlasma/ATM_DBD_0011.png" width="50%" >}}
+{{< figure src="/images/atmPlasma/Dielectric-barrier-discharge.png.jpg" width="50%" >}}
