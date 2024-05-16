@@ -2,7 +2,7 @@ baseURL = "https://jindiamond.github.io"
 languageCode = "en-us"
 title = "精鑽股份有限公司"
 theme = "hugo-arcana"
-copyright = "© Untitled. All rights reserved"
+copyright = "台中巿豐原區北陽路339巷20號2F TEL:04-25239551"
 
 defaultContentLanguage = "en"
 [languages]
@@ -45,51 +45,45 @@ defaultContentLanguage = "en"
     [params.footer]
 
         [[params.footer.links]]
-            header = "Links to Stuff"
+            header = "Useful Links"
         [[params.footer.links.links]]
-            title = "Mattis et quis rutrum"
+            title = "Home"
             url = "#"
         [[params.footer.links.links]]
-            title = "Suspendisse amet varius"
+            title = "Case Studies"
             url = "#"
         [[params.footer.links.links]]
-            title = "Sed et dapibus quis"
+            title = "Plasma Technology"
             url = "#"
         [[params.footer.links.links]]
-            title = "Rutrum accumsan dolor"
+            title = "News & Events"
             url = "#"
         [[params.footer.links.links]]
-            title = "Mattis rutrum accumsan"
+            title = "About Us"
             url = "#"
         [[params.footer.links.links]]
-            title = "Suspendisse varius nibh"
+            title = "Services"
             url = "#"
         [[params.footer.links.links]]
-            title = "Sed et dapibus mattis"
+            title = "Products & Services"
             url = "#"
 
         [[params.footer.links]]
-            header = "More Links to Stuff"
+            header = "精鑽股份有限公司 "
         [[params.footer.links.links]]
-            title = "Duis neque nisi dapibus"
+            title = "統一編號:22120964"
             url = "#"
         [[params.footer.links.links]]
-            title = "Sed et dapibus quis"
+            title = "Email:mason.jindiamond@gmail.com"
             url = "#"
         [[params.footer.links.links]]
-            title = "Rutrum accumsan sed"
+            title = "TEL:+886-934303507"
             url = "#"
         [[params.footer.links.links]]
-            title = "Mattis et sed accumsan"
+            title = "FAX:+886-4-25230646"
             url = "#"
         [[params.footer.links.links]]
-            title = "Duis neque nisi sed"
-            url = "#"
-        [[params.footer.links.links]]
-            title = "Sed et dapibus quis"
-            url = "#"
-        [[params.footer.links.links]]
-            title = "Rutrum amet varius"
+            title = "地址:台中巿豐原區北陽路339巷20號2F"
             url = "#"
 
         [params.footer.contact_form]
