@@ -5,28 +5,37 @@ menu: main2
 weight: 20
 image: images/Ion/IOB_AL_cir01.jpg
 image_alt: "Hello!"
-sidebar_left: sidebar3
 draft: false
 date: "2024-03-31T11:00:00"
 ---
-Phasellus quam turpis, feugiat sit amet ornare in, hendrerit in lectus.
-Praesent semper mod quis eget mi. Etiam eu ante risus. Aliquam erat volutpat.
-Aliquam luctus et mattis lectus sit amet pulvinar. Nam turpis nisi
-consequat etiam lorem ipsum dolor sit amet nullam.
 
-### And Yet Another Subheading
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas ac quam risus, at tempus
-justo. Sed dictum rutrum massa eu volutpat. Quisque vitae hendrerit sem. Pellentesque lorem felis,
-ultricies a bibendum id, bibendum sit amet nisl. Mauris et lorem quam. Maecenas rutrum imperdiet
-vulputate. Nulla quis nibh ipsum, sed egestas justo. Morbi ut ante mattis orci convallis tempor.
-Etiam a lacus a lacus pharetra porttitor quis accumsan odio. Sed vel euismod nisi. Etiam convallis
-rhoncus dui quis euismod. Maecenas lorem tellus, congue et condimentum ac, ullamcorper non sapien.
-Donec sagittis massa et leo semper a scelerisque metus faucibus. Morbi congue mattis mi.
-Phasellus sed nisl vitae risus tristique volutpat. Cras rutrum commodo luctus.
+## 圓型離子源
+### - 產生均勻的寬離子束。
+### - 可以使用多種氣體和混合物來操作。
+### - 不需要額外的中和劑來進行電荷補償，
+### - 能夠使用化學活性氣體（氧氣、空氣、鹵素等）連續運作。
+### - 當使用氧氣時，不會消耗電極，適用於需要氧氣處理應用。
 
-Phasellus odio risus, faucibus et viverra vitae, eleifend ac purus. Praesent mattis, enim
-quis hendrerit porttitor, sapien tortor viverra magna, sit amet rhoncus nisl lacus nec arcu.
-Suspendisse laoreet metus ut metus imperdiet interdum aliquam justo tincidunt. Mauris dolor urna,
-fringilla vel malesuada ac, dignissim eu mi. Praesent mollis massa ac nulla pretium pretium.
-Maecenas tortor mauris, consectetur pellentesque dapibus eget, tincidunt vitae arcu.
-Vestibulum purus augue, tincidunt sit amet iaculis id, porta eu purus.
+## 安裝配置
+所有線性離子源均可用於內部和外部安裝配置。內部安裝來源包括一個 KF25 實用連接埠。對於較小的 L125 和 L145 來源，可以訂購具有可變穿透深度的傾斜頭選項，例如用於共焦濺鍍應用中的離子輔助。
+
+## 特色與優勢
+### • 緊湊的線性設計
+### • 內部和法蘭安裝版本
+### • 電極壽命長
+### • 均勻的線性離子束
+### • 聚焦高能離子,高離子密度
+### • 高效的蝕刻速率
+### • 自中和離子束
+### • 相容於多種氣體
+### • 壓力範圍寬(0.3~3 mtorr)
+
+{{< figure src="/images/Ion/IBSS_Spec.png" width="80%" >}}
+
+
+## 陽極層源的典型應用包括
+### • 離子清洗、離子蝕刻
+### • 離子束輔助沉積 (IBAD)
+### • 表面改性
+### • 離子束濺鍍 (IBS)
+### • 等離子體化學氣相沉積和類鑽碳沉積
